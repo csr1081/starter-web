@@ -17,4 +17,6 @@ Adding text on the Introduction
 How to create a new section 
 ## This is simple 
 
+Added the simple copy write comment
+
 Sample website with plenty of files for demos
