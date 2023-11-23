@@ -9,6 +9,7 @@ Adding text on the Introduction
 ## How to contribute 
 Adding text on the Introduction
 This repository is for showing how Git and GitHub work
+jjhlk
 
 ## Purpose
 Adding text on the Introduction
